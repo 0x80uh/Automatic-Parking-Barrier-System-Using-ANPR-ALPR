@@ -33,7 +33,6 @@ Proyek ini merupakan sistem penghalang parkir otomatis yang memanfaatkan teknolo
 [Grafik Pegujian]
 <img width="606" height="390" alt="image" src="https://github.com/user-attachments/assets/15491742-ae53-4bbc-9ee4-feb3b7a60e68" />
 
-
 ## Teknologi dan Metode
 
 - Python
