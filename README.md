@@ -28,10 +28,6 @@ Proyek ini merupakan sistem penghalang parkir otomatis yang memanfaatkan teknolo
 [Hasil deteksi plat nomor]
 <img width="402" height="225" alt="image" src="https://github.com/user-attachments/assets/f3a0a1cb-d132-40ac-b00f-c46c1da95901" />
 
-[Hasil OCR]
-
-## Demonstrasi Sistem
-
 ## Teknologi dan Metode
 
 - Python
