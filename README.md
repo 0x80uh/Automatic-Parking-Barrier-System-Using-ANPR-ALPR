@@ -23,9 +23,11 @@ Proyek ini merupakan sistem penghalang parkir otomatis yang memanfaatkan teknolo
 ## Hasil Pengujian
 
 [Hasil deteksi kendaraan]
+
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5b6238d4-5712-4238-a6d6-40f9dabb2e2b" />
 
 [Hasil deteksi plat nomor]
+
 <img width="402" height="225" alt="image" src="https://github.com/user-attachments/assets/f3a0a1cb-d132-40ac-b00f-c46c1da95901" />
 
 ## Teknologi dan Metode
@@ -70,8 +72,6 @@ Proyek ini merupakan sistem penghalang parkir otomatis yang memanfaatkan teknolo
 
 ## Fitur Utama
 
-## Fitur Utama
-
 - Deteksi plat nomor kendaraan secara otomatis menggunakan YOLOv8
 - Deteksi plat nomor kendaraan secara real-time
 - Pengenalan karakter plat nomor menggunakan PaddleOCR
@@ -82,4 +82,4 @@ Proyek ini merupakan sistem penghalang parkir otomatis yang memanfaatkan teknolo
 
 ## Penulis
 
-Mabduh Khoer
+M%%%%h K%%%r
